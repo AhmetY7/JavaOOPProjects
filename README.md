@@ -10,7 +10,7 @@ Link: https://classroom.udacity.com/courses/ud283/lessons/2b5bc57f-de73-45a4-b3a
 Scenario: We are an IT Support Administrator Specialist and are charged with the task of creating email accounts for new hires. 
 
 # Student Database Application
-Scenario: You are a Database Administrator for a university and need to create an application to manage student enrollments and balance.
+Scenario: We are a Database Administrator for a university and need to create an application to manage student enrollments and balance.
 
 # Bank Application
-Scenario: You are a back-end developer and need to create an application to handle new customer bank account requests.
+Scenario: We are a back-end developer and need to create an application to handle new customer bank account requests.
